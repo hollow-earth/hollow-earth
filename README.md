@@ -1,34 +1,67 @@
-# Hi, I'm Sam
+# Hi, I'm Sam 👋
 
-I'm a software developer with a background in Physics from McGill University.
+Physics graduate building software focused on systems, infrastructure, and automation.
 
-I'm interested in:
+### Interests
 
-- Backend development
-- Systems programming
-- Linux & Infrastructure
-- Distributed systems
-- Automation
+* Backend Development
+* Systems Programming
+* Linux & Infrastructure
+* Distributed Systems
+* Automation
 
 ## Featured Projects
 
-## About
+### 🖥️ Home Lab & NAS
 
+Self-hosted infrastructure built with Proxmox, Docker, LXC, WireGuard, and ZFS.
+
+**Built with:** Linux · Proxmox · Docker · ZFS · WireGuard
+
+---
+
+### ⚙️ Scandium
+
+Exploring low-level graphics programming by building, documenting, and extending a Vulkan-based rendering engine.
+
+**Built with:** C++ · Vulkan · Graphics Programming
+
+---
+
+### ✍️ Handwritten LaTeX
+
+Converts handwritten mathematical expressions into raw LaTeX using TensorFlow and OpenCV.
+
+**Built with:** Python · TensorFlow · OpenCV · Computer Vision
+
+---
+
+### 🏆 Chaosball *(McGameJam 2021 — 3rd Place)*
+A local multiplayer party game developed in 48 hours that earned **3rd place** at McGameJam 2021.
+
+**Built with:** Unity · C#
+
+---
+
+
+### 🚦 King of the Road *(GMTK Game Jam 2025)*
+
+A 48-hour game jam project that became one of the **130 most-played games** out of **9,545 entries**.
+
+**Built with:** Godot · GDScript
+
+## Open Source Contributions
+
+### TerraFirmaGreg
+Contributed bug fixes and feature enhancements.
+
+## Currently
+- 📚 Studying for the CCNA
+- 🐧 Expanding my Proxmox homelab
+- 🌱 Contributing to open source projects
+- ⚙️ Learning more about systems programming
+
+## About
 Outside of software, I enjoy game development, homelab projects, and RPGs.
 
-Fun fact: my GitHub username is taken from a location in Underrail.
-
-<!--
-**hollow-earth/hollow-earth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fun fact:** My GitHub username comes from a location in *Underrail*.
