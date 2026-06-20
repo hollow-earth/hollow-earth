@@ -12,16 +12,6 @@ I'm interested in:
 
 ## Featured Projects
 
-### Scandium
-A programming language written in C++.
-
-### Homelab
-Infrastructure experiments using Proxmox, Docker, Linux, and networking.
-
-### Open Source
-Contributions to ...
-
-
 ## About
 
 Outside of software, I enjoy game development, homelab projects, and RPGs.
