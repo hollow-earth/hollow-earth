@@ -2,7 +2,7 @@
 
 Physics graduate building software focused on systems, infrastructure, and automation.
 
-**Interests:** Backend • Systems Programming • Linux • Distributed Systems • Open Source
+**Interests:**  Backend · Development · Systems Programming · Linux & Infrastructure · Distributed Systems · Automation
 
 ## Featured Projects
 🖥️ **Home Lab & NAS**: Self-hosted infrastructure built with Proxmox, Docker, LXC, WireGuard, and ZFS. Built with: Linux · Proxmox · Docker · ZFS · WireGuard
