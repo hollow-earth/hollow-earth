@@ -2,58 +2,21 @@
 
 Physics graduate building software focused on systems, infrastructure, and automation.
 
-### Interests
-
-* Backend Development
-* Systems Programming
-* Linux & Infrastructure
-* Distributed Systems
-* Automation
+**Interests:** Backend • Systems Programming • Linux • Distributed Systems • Open Source
 
 ## Featured Projects
+🖥️ **Home Lab & NAS**: Self-hosted infrastructure built with Proxmox, Docker, LXC, WireGuard, and ZFS. Built with: Linux · Proxmox · Docker · ZFS · WireGuard
 
-### 🖥️ Home Lab & NAS
+⚙️ **Scandium**: Exploring low-level graphics programming by building, documenting, and extending a Vulkan-based rendering engine. Built with: C++ · Vulkan
 
-Self-hosted infrastructure built with Proxmox, Docker, LXC, WireGuard, and ZFS.
+✍️ **Handwritten LaTeX**: Converts handwritten mathematical expressions into raw LaTeX using TensorFlow and OpenCV. Built with: Python · TensorFlow · OpenCV
 
-**Built with:** Linux · Proxmox · Docker · ZFS · WireGuard
+🏆 **Chaosball** *(McGameJam 2021 — 3rd Place)*: A Bubble Trouble inspired shooter developed in 48 hours that earned **3rd place** at McGameJam 2021. Built with: Unity · C#
 
----
-
-### ⚙️ Scandium
-
-Exploring low-level graphics programming by building, documenting, and extending a Vulkan-based rendering engine.
-
-**Built with:** C++ · Vulkan · Graphics Programming
-
----
-
-### ✍️ Handwritten LaTeX
-
-Converts handwritten mathematical expressions into raw LaTeX using TensorFlow and OpenCV.
-
-**Built with:** Python · TensorFlow · OpenCV · Computer Vision
-
----
-
-### 🏆 Chaosball *(McGameJam 2021 — 3rd Place)*
-A Double Trouble shooter clone developed in 48 hours that earned **3rd place** at McGameJam 2021.
-
-**Built with:** Unity · C#
-
----
-
-
-### 🚦 King of the Road *(GMTK Game Jam 2025)*
-
-A 48-hour game jam project that became one of the **130 most-played games** out of **9,545 entries**.
-
-**Built with:** Godot · GDScript
+🚦 **King of the Road** *(GMTK Game Jam 2025)*: A 48-hour game jam project that became one of the **130 most-played games** out of **9,545 entries**. Built with: Godot · GDScript
 
 ## Open Source Contributions
-
-### TerraFirmaGreg
-Contributed bug fixes and feature enhancements.
+- TerraFirmaGreg: Contributed bug fixes and feature enhancements in the core mod and the modpack.
 
 ## Currently
 - 📚 Studying for the CCNA
