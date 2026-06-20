@@ -37,7 +37,7 @@ Converts handwritten mathematical expressions into raw LaTeX using TensorFlow an
 ---
 
 ### 🏆 Chaosball *(McGameJam 2021 — 3rd Place)*
-A local multiplayer party game developed in 48 hours that earned **3rd place** at McGameJam 2021.
+A Double Trouble shooter clone developed in 48 hours that earned **3rd place** at McGameJam 2021.
 
 **Built with:** Unity · C#
 
