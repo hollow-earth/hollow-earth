@@ -5,7 +5,7 @@ Physics graduate building software focused on systems, infrastructure, and autom
 **Interests:**  Backend · Development · Systems Programming · Linux & Infrastructure · Distributed Systems · Automation
 
 ## Featured Projects
-**Home Lab & NAS**: Self-hosted infrastructure built with Proxmox, Docker, LXC, WireGuard, and ZFS. Built with: Linux · Proxmox · Docker · ZFS · WireGuard
+[**Home Lab & NAS**](https://github.com/hollow-earth/home-lab): Self-hosted infrastructure built with Proxmox, Docker, LXC, WireGuard, and ZFS. Built with: Linux · Proxmox · Docker · ZFS · WireGuard
 
 [**Scandium**](https://github.com/hollow-earth/scandium): Exploring low-level graphics programming by building, documenting, and extending a Vulkan-based rendering engine. Built with: C++ · Vulkan
 
